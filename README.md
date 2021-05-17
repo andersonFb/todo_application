@@ -42,6 +42,8 @@ cd todo_application
 ```
 
 ## Endpoints
+### Documentação
+- /swagger-ui.html
 ### Endpoint para GET E POST
 - /api/tarefas
 ### Endpoint para GET, PUT e DELETE

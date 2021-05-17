@@ -40,6 +40,17 @@ cd todo_application
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+
+## Endpoints
+### Endpoint para GET E POST
+- /api/tarefas
+### Endpoint para GET, PUT e DELETE
+- /api/tarefas/{id}
+### Endpoint para Filtro padrão
+- /api/tarefas/page
+### Endpoint para Filtro com parâmetros
+- /api/tarefas/page?sort=createdAt
+
 # Autor
 
 Anderson Fonseca
